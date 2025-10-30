@@ -5,7 +5,7 @@
                    AlpVersion="8.9.6">
 	<Model>
 		<Id>1761062612665</Id>
-		<Name><![CDATA[модель микоризы 2]]></Name>
+		<Name><![CDATA[модель микоризы 1]]></Name>
 		<EngineVersion>6</EngineVersion>
 		<JavaPackageName><![CDATA[модель_микоризы_1_1]]></JavaPackageName>
 		<ModelTimeUnit>Second</ModelTimeUnit>
