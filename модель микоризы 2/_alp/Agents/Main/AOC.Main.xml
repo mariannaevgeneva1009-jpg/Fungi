@@ -975,28 +975,6 @@
 			<LineWidth>1</LineWidth>
 			<Delay>false</Delay>
 		</Link>
-		<Link SourceId="1761062649488" TargetId="1761236012164" Polarity="null">
-			<Height>20.0</Height>
-			<PolarityPosition>0.95</PolarityPosition>
-			<Direction>
-				<X>-30</X>
-				<Y>-180</Y>
-			</Direction>
-			<Id>1761240062337</Id>
-			<Name><![CDATA[W_lyg_mon - V_m]]></Name>
-			<X>170</X>
-			<Y>470</Y>
-			<Label>
-				<X>10</X>
-				<Y>0</Y>
-			</Label>
-			<PublicFlag>false</PublicFlag>
-			<PresentationFlag>true</PresentationFlag>
-			<ShowLabel>false</ShowLabel>
-			<Color>-11832691</Color>
-			<LineWidth>1</LineWidth>
-			<Delay>false</Delay>
-		</Link>
 		<Link SourceId="1761236397833" TargetId="1761235842748" Polarity="null">
 			<Height>-3.003</Height>
 			<PolarityPosition>0.95</PolarityPosition>
