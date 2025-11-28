@@ -949,6 +949,7 @@ Doctor of Philosophy ]]></Description>
 				<Variable Class="Parameter">
 					<Id>1762276352004</Id>
 					<Name><![CDATA[for_not_minus_W_lyg_mon]]></Name>
+					<Description><![CDATA[Предотвращение появления отрицательных значений для мономеров ]]></Description>
 					<X>200</X><Y>1320</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
@@ -973,6 +974,7 @@ Doctor of Philosophy ]]></Description>
 				<Variable Class="Parameter">
 					<Id>1762276458701</Id>
 					<Name><![CDATA[for_not_minus_W_lyg_pol]]></Name>
+					<Description><![CDATA[Предотвращение появления отрицательных значений для полимеров ]]></Description>
 					<X>860</X><Y>1380</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
