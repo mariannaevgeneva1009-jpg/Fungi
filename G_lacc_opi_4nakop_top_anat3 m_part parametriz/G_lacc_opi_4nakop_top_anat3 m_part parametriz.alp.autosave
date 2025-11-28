@@ -749,7 +749,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[0.5]]></Code>
+							<Code><![CDATA[9.91]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1576357729620</Id>
@@ -787,7 +787,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[1300]]></Code>
+							<Code><![CDATA[2950]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1576357906228</Id>
@@ -812,7 +812,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[6000*2]]></Code>
+							<Code><![CDATA[600]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1576358001835</Id>
@@ -911,7 +911,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[9000]]></Code>
+							<Code><![CDATA[100]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1761828064586</Id>
@@ -935,7 +935,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[0.01]]></Code>
+							<Code><![CDATA[9.956]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1761844814240</Id>
@@ -959,7 +959,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[70]]></Code>
+							<Code><![CDATA[100]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1762276352002</Id>
@@ -983,7 +983,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[0]]></Code>
+							<Code><![CDATA[500]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1762276458699</Id>
@@ -1007,7 +1007,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[6]]></Code>
+							<Code><![CDATA[79]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1762276541239</Id>
@@ -1079,7 +1079,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[1.5]]></Code>
+							<Code><![CDATA[7.85]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1763660416351</Id>
@@ -1103,7 +1103,7 @@ Doctor of Philosophy ]]></Description>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[2.0]]></Code>
+							<Code><![CDATA[0.85]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1763660466999</Id>
@@ -5035,10 +5035,10 @@ copyToClipboard( s );]]></ActionCode>
 					<Code><![CDATA[1000]]></Code>
 				</Value>
 				<Min Class="CodeValue">
-					<Code><![CDATA[500]]></Code>
+					<Code><![CDATA[1]]></Code>
 				</Min>
 				<Max Class="CodeValue">
-					<Code><![CDATA[3000]]></Code>
+					<Code><![CDATA[449]]></Code>
 				</Max>
 				<Step Class="CodeValue">
 					<Code><![CDATA[100]]></Code>
@@ -5048,10 +5048,10 @@ copyToClipboard( s );]]></ActionCode>
 				<Id>1576358001837</Id>
 				<Type>DISCRETE</Type>
 				<Min Class="CodeValue">
-					<Code><![CDATA[100]]></Code>
+					<Code><![CDATA[10000]]></Code>
 				</Min>
 				<Max Class="CodeValue">
-					<Code><![CDATA[20000]]></Code>
+					<Code><![CDATA[50000]]></Code>
 				</Max>
 				<Step Class="CodeValue">
 					<Code><![CDATA[500]]></Code>
@@ -5161,26 +5161,26 @@ copyToClipboard( s );]]></ActionCode>
 				<Id>1763660416353</Id>
 				<Type>DISCRETE</Type>
 				<Min Class="CodeValue">
-					<Code><![CDATA[1.1]]></Code>
+					<Code><![CDATA[0.1]]></Code>
 				</Min>
 				<Max Class="CodeValue">
-					<Code><![CDATA[4]]></Code>
+					<Code><![CDATA[8]]></Code>
 				</Max>
 				<Step Class="CodeValue">
-					<Code><![CDATA[0.2]]></Code>
+					<Code><![CDATA[0.25]]></Code>
 				</Step>
 			</Parameter>
 			<Parameter>	
 				<Id>1763660467001</Id>
 				<Type>DISCRETE</Type>
 				<Min Class="CodeValue">
-					<Code><![CDATA[1.1]]></Code>
+					<Code><![CDATA[0.1]]></Code>
 				</Min>
 				<Max Class="CodeValue">
-					<Code><![CDATA[4]]></Code>
+					<Code><![CDATA[8]]></Code>
 				</Max>
 				<Step Class="CodeValue">
-					<Code><![CDATA[0.2]]></Code>
+					<Code><![CDATA[0.25]]></Code>
 				</Step>
 			</Parameter>
 			<ObjectiveFunctionCode><![CDATA[root.function_parametriztion()]]></ObjectiveFunctionCode>
@@ -5201,7 +5201,7 @@ if (bestInfeasibleObjective != Double.NEGATIVE_INFINITY) {
 				<Enabled>true</Enabled>
 				<Expression><![CDATA[root.W_Fung]]></Expression>
 				<Type>MORE_OR_EQUAL</Type>
-				<Bound>45.0</Bound>
+				<Bound>100.0</Bound>
 			</Requirement>
 			<ReplicationsProperties>
 				<UseReplication>false</UseReplication>
@@ -5222,8 +5222,8 @@ if (bestInfeasibleObjective != Double.NEGATIVE_INFINITY) {
 				<StopOption><![CDATA[Stop at specified time]]></StopOption>
 				<InitialDate><![CDATA[1574121600000]]></InitialDate>	
 				<InitialTime><![CDATA[0.0]]></InitialTime>	
-				<FinalDate><![CDATA[1575021600000]]></FinalDate>	
-				<FinalTime><![CDATA[250.0]]></FinalTime>	
+				<FinalDate><![CDATA[1576713600000]]></FinalDate>	
+				<FinalTime><![CDATA[720.0]]></FinalTime>	
 				<StopAfterIterationCount>true</StopAfterIterationCount>
 				<IterationCount>100000</IterationCount>
 				<AutomaticStop>false</AutomaticStop>
